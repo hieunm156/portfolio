@@ -33,7 +33,7 @@ export default function Home() {
         src="https://www.googletagmanager.com/gtag/js?id=G-R7M5WNE6BT"
       ></Script>
       <Head>
-        <title>Portfolio | @hieunm</title>
+        <title>@hieunm</title>
         <meta name="description" content="Portfolio of Hieu Ngo Minh" />
         <meta name="keywords" content="Portfolio, Hieu Ngo Minh, programeoww" />
         <meta name="author" content="@hieunm" />
