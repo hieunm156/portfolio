@@ -75,13 +75,13 @@ export default function Home() {
                 effectively in a team, and I can solve problems and provide
                 optimal solutions for challenges during the development process.
               </p>
-              <a
+              {/* <a
                 href={"https://github.com/programeoww/"}
                 className="inline-flex border-dark-blue bg-white/5 items-center justify-center font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 border border-input bg-transparent shadow-sm hover:bg-secondary-blue rounded-md px-2 md:px-3 text-xs mr-auto h-8"
               >
                 <GithubIcon className="h-4 w-4" />
                 <span className="hidden md:inline-block ml-2">My Github</span>
-              </a>
+              </a> */}
             </section>
             <div
               data-orientation="horizontal"
